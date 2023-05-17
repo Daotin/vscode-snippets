@@ -1,6 +1,8 @@
 # vscode-snippets
 vscode 代码片段
 
+> 快速生成 code-snippets: https://snippet-generator.app/
+
 ```js
 {
   // Place your 全局 snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and
